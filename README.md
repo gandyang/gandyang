@@ -1,6 +1,6 @@
 ### About me
 
-<h1 align="left">Hi 👋, I'm sori 🇰🇷</h1>
+<h1 align="left">🇰🇷</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gandyang&label=Profile%20views&color=0e75b6&style=flat" alt="gandyang" /> </p>
 
 - 🌱 I’m currently learning **flutter,unity**
